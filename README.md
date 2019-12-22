@@ -1,6 +1,6 @@
 # Drop Game - Built for Twitch
 
-## A Twitch overlay drop game. Type `!drop <image | emote>` in the chat to play
+A Twitch overlay drop game. Type `!drop <image | emote>` in the chat to play
 
 > Original Drop game by [instafluff](https://twitch.tv/instafluff). See the original code [here](https://github.com)
 
