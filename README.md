@@ -6,7 +6,8 @@ A Twitch overlay drop game. Type `!drop <image | emote>` in the chat to play
 
 ## Todo
 
-- [ ] Setup client
+- [x] Setup client
+- [x] Get target on the screen at the bottom/center
 - [ ] Get target on the screen with swaying animation
 - [ ] Get drop image on the screen with swaying animation
 - [ ] Game logic to drop an image

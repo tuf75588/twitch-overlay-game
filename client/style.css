@@ -1,0 +1,6 @@
+.target {
+  position: fixed;
+  bottom: -220px;
+  left: 50%;
+  transform: translateX(-50%);
+}
